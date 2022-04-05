@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+
+
+.header-head {
+  height: 50px;
+  margin-bottom: 50px;
+  width: 100%;
+  background-color: orange;
+}
+
+
+
+
+main {
+  width: 100%;
+  text-align: center;
+
+}
+
+
+.item {
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(248, 246, 246, 0.949);
+  position: relative;
+}
+
+.img {
+  height: 150px;
+  width: 800px;
+  background-image: url(../課題/img/flow01.png);
+  background-position: center;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+.img-2 {
+  height: 150px;
+  width: 800px;
+  background-image: url(../課題/img/flow02.png);
+  background-position: center;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+.img-3 {
+  height: 150px;
+  width: 800px;
+  background-image: url(../課題/img/flow03.png);
+  background-position: center;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+.main-text {
+  width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.main-title {
+  padding-top: 20px;
+}
+
+.main-text {
+  font-size: 24px;
+  letter-spacing: 2px;
+}
+
+.box {
+  margin-bottom: 20px;
+}
+
+.step {
+  padding: 3px;
+  background-color: orange;
+  padding: 5px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.step p {
+  color: white;
+}
+
+.footer {
+  height: 50px;
+  margin-top: 50px;
+  background-color: darkgray;
+}
